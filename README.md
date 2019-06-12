@@ -13,6 +13,7 @@ Repo to storage and follow my js learning - Based on [js-learning](https://githu
 - [ ] [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) - Learn the fundamentals of functional programming, reactive programming, and functional reactive programming in JavaScript.
 - [ ] [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/) - Explains concepts like scope and closures, data flow, change detection, components, compilation, tree shaking.
 - [ ] [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Guide focused on writing robust code by describing possible failures and explaining how to prevent them.
+- [ ] [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Software engineering principles, from Robert C. Martin's book Clean Code, adapted for JavaScript. 
 
 _\*MDN offers a lot of [other guides](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) for every level of knowledge to dig deeper._
 
